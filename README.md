@@ -76,22 +76,6 @@ Future versions will export SARIF to integrate with the **GitHub Security tab**.
 
 ---
 
-## 🛠️ Development
-
-### Build
-
-```bash
-docker build -t ghcr.io/sceptr3sec/chimera-ci:latest .
-```
-
-### Push
-
-```bash
-docker push ghcr.io/sceptr3sec/chimera-ci:latest
-```
-
----
-
 ## 📅 Roadmap
 
 * [ ] Add SARIF report export
