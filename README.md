@@ -108,7 +108,3 @@ PRs are welcome! For major changes, open an issue first to discuss.
 
 MIT © [Sceptr3sec](https://github.com/Sceptr3sec)
 
----
-
-Do you want me to also generate a **diagram (Mermaid or SVG)** of the pipeline flow (code → scans → reports) so you can drop it into the README for visual impact?
-
