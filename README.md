@@ -1,3 +1,5 @@
+![yugioh_card_art_for_A_colossal](https://github.com/user-attachments/assets/121b1acf-2f39-4292-b9d8-81d8ca8a249f)
+
 # 📦 Chimera CI – A DevSecOps Pipeline in a Box
 
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/Sceptr3sec/chimera-ci/pipeline.yml?branch=main\&label=CI%2FCD)](https://github.com/Sceptr3sec/chimera-ci/actions)
